@@ -28,20 +28,3 @@ AI student at IPB University and CTO at [pacu.io](https://pacu.io), an Indonesia
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,ts,js,react,cpp,laravel&perline=8" alt="Tech stack: Python, TensorFlow, PyTorch, TypeScript, JavaScript, React, C++, Laravel" />
 </a>
 
-### GitHub
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=irgidev&show_icons=true&hide_border=true" alt="GitHub stats for irgidev" />
-  <img src="./profile/streak.svg" alt="Contribution streak for irgidev" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irgidev&theme=github" alt="Profile details and contribution chart for irgidev" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
-    <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-  </picture>
-</p>
