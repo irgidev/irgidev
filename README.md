@@ -41,7 +41,7 @@ AI student at IPB University and CTO at [pacu.io](https://pacu.io), an Indonesia
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irgidev/irgidev/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/irgidev/irgidev/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+    <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
   </picture>
 </p>
