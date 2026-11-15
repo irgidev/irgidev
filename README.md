@@ -20,13 +20,15 @@ AI student at IPB University and CTO at [pacu.io](https://pacu.io), an Indonesia
 
 ### Selected work
 
-| Project | What it does | Stack |
+| Project | What it does | Status |
 | --- | --- | --- |
-| [nlp-gojek-app-review-scraper](https://github.com/irgidev/nlp-gojek-app-review-scraper) | Gojek reviews from Google Play, analyzed for Indonesian sentiment (NLTK + Sastrawi) | ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) |
-| [cv-focus-guard-ai-pomodoro](https://github.com/irgidev/cv-focus-guard-ai-pomodoro) | Pomodoro timer that watches your focus through the webcam | ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![](https://img.shields.io/badge/MediaPipe-006D77) |
-| [cnn-footwear-classifier](https://github.com/irgidev/cnn-footwear-classifier) | Footwear image classifier built with TensorFlow/Keras | ![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| [ragu](https://github.com/irgidev/ragu) | Grounded RAG for Bahasa Indonesia that knows when to refuse, with a full evaluation harness (retrieval hit rate, groundedness, fallback rate) | ![](https://img.shields.io/badge/Status-In%20development-D4820A) |
+| [ragu-bench](https://github.com/irgidev/ragu-bench) | Model-agnostic LLM benchmark and cost-aware routing: quality vs cost vs latency on the same gold set | ![](https://img.shields.io/badge/Status-In%20development-D4820A) |
+| [agen-wa](https://github.com/irgidev/agen-wa) | Transactional WhatsApp agent with governance, audit log, and human handoff | ![](https://img.shields.io/badge/Status-In%20development-D4820A) |
+| [nlu-id](https://github.com/irgidev/nlu-id) | Intent classification and slot filling microservice for Bahasa Indonesia (IndoBERT + ONNX) | ![](https://img.shields.io/badge/Status-In%20development-D4820A) |
+| [suara-agen](https://github.com/irgidev/suara-agen) | Indonesian voice loop (ASR, LLM, TTS) with a measured per-turn latency budget | ![](https://img.shields.io/badge/Status-In%20development-D4820A) |
 
-*Currently building: a grounded RAG system, an NLU microservice, and a voice loop for Bahasa Indonesia.*
+*All five are under active development (started November 2026), built as one stack for Bahasa Indonesia: retrieval, model routing, channel, NLU, and voice.*
 
 [More projects](https://github.com/irgidev?tab=repositories)
 
