@@ -1,9 +1,9 @@
 ## Irgi Setiawan
 
-AI student at IPB University and CTO at [pacu.io](https://pacu.io), an Indonesian career-development platform backed by F4 Fund. I build machine-learning systems for concrete problems: computer vision, NLP for Indonesian text, and reinforcement learning.
+AI student at IPB University and CTO at [pacu.io](https://pacu.io), an Indonesian career-development platform backed by F4 Fund. My focus is natural language processing and conversational AI for Bahasa Indonesia: grounded RAG systems, evaluation harnesses, NLU microservices, and LLM cost engineering.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=1B5E20&center=true&vCenter=true&width=640&lines=AI+student+at+IPB+University;CTO+at+pacu.io;Machine+learning+for+real+problems" alt="AI student at IPB University. CTO at pacu.io. Machine learning for real problems." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=1B5E20&center=true&vCenter=true&width=640&lines=NLP+and+conversational+AI+in+Bahasa+Indonesia;Grounded+RAG+with+measured+fallback+rates;AI+student+at+IPB+University+%C2%B7+CTO+at+pacu.io" alt="NLP and conversational AI in Bahasa Indonesia. Grounded RAG with measured fallback rates. AI student at IPB University, CTO at pacu.io." />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ AI student at IPB University and CTO at [pacu.io](https://pacu.io), an Indonesia
 
 - Building [pacu.io](https://pacu.io) as CTO
 - Studying Artificial Intelligence at [IPB University](https://ipb.ac.id)
-- On the side: computer-vision tools, Indonesian NLP pipelines, RL agents
+- Current focus: applied NLP and LLM systems for Bahasa Indonesia (grounded RAG, evaluation, NLU)
 
 ### Selected work
 
@@ -33,7 +33,7 @@ AI student at IPB University and CTO at [pacu.io](https://pacu.io), an Indonesia
 ### Toolbox
 
 <a href="https://github.com/irgidev?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,ts,js,react,cpp,laravel&perline=8" alt="Tech stack: Python, TensorFlow, PyTorch, TypeScript, JavaScript, React, C++, Laravel" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,ts,js,react&perline=8" alt="Tech stack: Python, PyTorch, TensorFlow, FastAPI, Docker, TypeScript, JavaScript, React" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1B5E20,50:2E7D32,100:00695C" width="100%" alt="" />
