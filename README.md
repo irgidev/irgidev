@@ -22,11 +22,11 @@ AI student at IPB University and CTO at [pacu.io](https://pacu.io), an Indonesia
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [nlp-gojek-app-review-scraper](https://github.com/irgidev/nlp-gojek-app-review-scraper) | Gojek reviews from Google Play, analyzed for Indonesian sentiment (NLTK + Sastrawi) | ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) |
 | [cv-focus-guard-ai-pomodoro](https://github.com/irgidev/cv-focus-guard-ai-pomodoro) | Pomodoro timer that watches your focus through the webcam | ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![](https://img.shields.io/badge/MediaPipe-006D77) |
-| [mediapipe-gta-hand-controller](https://github.com/irgidev/mediapipe-gta-hand-controller) | Control GTA V with hand gestures captured through a webcam | ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/MediaPipe-006D77) ![](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) |
 | [cnn-footwear-classifier](https://github.com/irgidev/cnn-footwear-classifier) | Footwear image classifier built with TensorFlow/Keras | ![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [nlp-gojek-app-review-scraper](https://github.com/irgidev/nlp-gojek-app-review-scraper) | Gojek reviews from Google Play, analyzed for Indonesian sentiment | ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) |
-| [rl-snake-pygame](https://github.com/irgidev/rl-snake-pygame) | Snake game mastered by a Deep Q-Network agent | ![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/Pygame-8C4A17) |
+
+*Currently building: a grounded RAG system, an NLU microservice, and a voice loop for Bahasa Indonesia.*
 
 [More projects](https://github.com/irgidev?tab=repositories)
 
